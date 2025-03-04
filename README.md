@@ -14,7 +14,7 @@ Bu proje için ekstra bir kütüphane yüklemenize gerek yoktur. **Python 3+** y
 
 ### 2️⃣ Projeyi Çalıştırın
 ```python
-python caesar_cipher.py 
+caesar_cipher.py 
 
 ``` 
 
